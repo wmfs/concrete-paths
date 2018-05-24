@@ -1,5 +1,5 @@
 # concrete-paths
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly/blob/master/packages/concrete-paths/LICENSE)
+[![Build Status](https://travis-ci.org/wmfs/concrete-paths.svg?branch=master)](https://travis-ci.org/wmfs/concrete-paths) [![codecov](https://codecov.io/gh/wmfs/concrete-paths/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/concrete-paths) [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/concrete-paths/badge)](https://www.codefactor.io/repository/github/wmfs/concrete-paths) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly/blob/master/packages/concrete-paths/LICENSE)
 
 > An option-laden utility which takes general glob-paths, delimited paths etc. and returns an array of absolute paths.
 
