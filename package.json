@@ -1,8 +1,8 @@
 {
-  "name": "concrete-paths",
+  "name": "@wmfs/concrete-paths",
   "description": "An option-laden utility to takes general globs, delimited paths etc. and returns an array of absolute paths.",
-  "version": "0.0.2",
-  "author": "Tim Needham",
+  "version": "0.0.0-semantically-released",
+  "author": "West Midlands Fire Service",
   "keywords": [
     "path",
     "absolute",
@@ -17,19 +17,30 @@
   },
   "devDependencies": {
     "chai": "4.1.2",
+    "codecov": "3.0.2",
+    "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
+    "nyc": "11.8.0",
+    "semantic-release": "^15.5.0",
     "standard": "11.0.1"
   },
   "scripts": {
     "lint": "standard",
-    "test": "standard && mocha"
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/tymly"
+    "url": "https://github.com/wmfs/concrete-paths"
   },
   "bugs": {
-    "url": "https://github.com/wmfs/tymly/issues"
+    "url": "https://github.com/wmfs/concrete-paths/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
