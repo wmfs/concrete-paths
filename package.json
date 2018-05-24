@@ -1,6 +1,6 @@
 {
   "name": "@wmfs/concrete-paths",
-  "description": "An option-laden utility to takes general globs, delimited paths etc. and returns an array of absolute paths.",
+  "description": "An option-laden utility to takes general globs, delimited paths etc and returns an array of absolute paths.",
   "version": "0.0.0-semantically-released",
   "author": "West Midlands Fire Service",
   "keywords": [
