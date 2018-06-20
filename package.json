@@ -8,7 +8,8 @@
     "tymly",
     "path",
     "absolute",
-    "glob"
+    "glob",
+    "package"
   ],
   "license": "MIT",
   "repository": {
