@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/wmfs/concrete-paths/compare/v1.4.0...v1.5.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 3.2.4 to 4.0.1 ([1935b01](https://github.com/wmfs/concrete-paths/commit/1935b01))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.3 to 7.0.4 ([da0ed61](https://github.com/wmfs/concrete-paths/commit/da0ed61))
+* **deps-dev:** bump semantic-release from 15.9.14 to 15.9.15 ([debf584](https://github.com/wmfs/concrete-paths/commit/debf584))
+
 # [1.4.0](https://github.com/wmfs/concrete-paths/compare/v1.3.0...v1.4.0) (2018-09-11)
 
 
