@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/concrete-paths/compare/v1.1.0...v1.2.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 3.2.1 to 3.2.2 ([a4028ca](https://github.com/wmfs/concrete-paths/commit/a4028ca))
+
 # [1.1.0](https://github.com/wmfs/concrete-paths/compare/v1.0.5...v1.1.0) (2018-09-11)
 
 
