@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/wmfs/concrete-paths/compare/v1.3.0...v1.4.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 3.2.3 to 3.2.4 ([b417a90](https://github.com/wmfs/concrete-paths/commit/b417a90))
+
 # [1.3.0](https://github.com/wmfs/concrete-paths/compare/v1.2.0...v1.3.0) (2018-09-11)
 
 
