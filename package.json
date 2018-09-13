@@ -23,7 +23,7 @@
   "dependencies": {
     "debug": "4.0.1",
     "globby": "8.0.1",
-    "lodash": "4.17.10",
+    "lodash": "4.17.11",
     "upath": "1.1.0"
   },
   "devDependencies": {
