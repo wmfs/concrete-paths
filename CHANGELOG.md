@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/concrete-paths/compare/v1.5.0...v1.6.0) (2018-09-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.10 to 4.17.11 ([01a2fde](https://github.com/wmfs/concrete-paths/commit/01a2fde))
+
 # [1.5.0](https://github.com/wmfs/concrete-paths/compare/v1.4.0...v1.5.0) (2018-09-11)
 
 
