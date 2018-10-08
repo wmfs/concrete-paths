@@ -1,3 +1,13 @@
+# [1.7.0](https://github.com/wmfs/concrete-paths/compare/v1.6.0...v1.7.0) (2018-10-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.0.1 to 4.1.0 ([3280e83](https://github.com/wmfs/concrete-paths/commit/3280e83))
+* **deps-dev:** bump chai from 4.1.2 to 4.2.0 ([bafb32d](https://github.com/wmfs/concrete-paths/commit/bafb32d))
+* **deps-dev:** bump semantic-release from 15.9.15 to 15.9.16 ([f199a98](https://github.com/wmfs/concrete-paths/commit/f199a98))
+* **deps-dev:** update semantic-release requirement ([a64dcf4](https://github.com/wmfs/concrete-paths/commit/a64dcf4))
+
 # [1.6.0](https://github.com/wmfs/concrete-paths/compare/v1.5.0...v1.6.0) (2018-09-13)
 
 
