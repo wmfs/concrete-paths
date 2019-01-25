@@ -134,3 +134,5 @@ TEST-result.xml
 .gradle/
 .embedpostgresql/
 
+package-lock.json
+
