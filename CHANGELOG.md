@@ -1,3 +1,29 @@
+# [1.8.0](https://github.com/wmfs/concrete-paths/compare/v1.7.0...v1.8.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([8e43392](https://github.com/wmfs/concrete-paths/commit/8e43392))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.0 to 3.0.1 ([7869fb1](https://github.com/wmfs/concrete-paths/commit/7869fb1))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.4 to 7.0.5 ([450e0e0](https://github.com/wmfs/concrete-paths/commit/450e0e0))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.5 to 7.0.6 ([666a3f0](https://github.com/wmfs/concrete-paths/commit/666a3f0))
+* **deps-dev:** bump nyc from 13.0.1 to 13.1.0 ([9de05cd](https://github.com/wmfs/concrete-paths/commit/9de05cd))
+* **deps-dev:** bump semantic-release from 15.10.3 to 15.10.4 ([e6a1698](https://github.com/wmfs/concrete-paths/commit/e6a1698))
+* **deps-dev:** bump semantic-release from 15.10.4 to 15.10.5 ([9bb2740](https://github.com/wmfs/concrete-paths/commit/9bb2740))
+* **deps-dev:** bump semantic-release from 15.10.5 to 15.10.6 ([123600d](https://github.com/wmfs/concrete-paths/commit/123600d))
+* **deps-dev:** bump semantic-release from 15.10.6 to 15.10.7 ([44a9d0d](https://github.com/wmfs/concrete-paths/commit/44a9d0d))
+* **deps-dev:** bump semantic-release from 15.10.7 to 15.10.8 ([16a3a8a](https://github.com/wmfs/concrete-paths/commit/16a3a8a))
+* **deps-dev:** bump semantic-release from 15.10.8 to 15.11.0 ([646eb72](https://github.com/wmfs/concrete-paths/commit/646eb72))
+* **deps-dev:** bump semantic-release from 15.11.0 to 15.12.0 ([8e0e9d8](https://github.com/wmfs/concrete-paths/commit/8e0e9d8))
+* **deps-dev:** bump semantic-release from 15.12.0 to 15.12.1 ([040e6c6](https://github.com/wmfs/concrete-paths/commit/040e6c6))
+* **deps-dev:** bump semantic-release from 15.12.1 to 15.12.2 ([639bee7](https://github.com/wmfs/concrete-paths/commit/639bee7))
+* **deps-dev:** bump semantic-release from 15.12.2 to 15.13.1 ([904a624](https://github.com/wmfs/concrete-paths/commit/904a624))
+* **deps-dev:** bump semantic-release from 15.9.17 to 15.10.3 ([572bdb3](https://github.com/wmfs/concrete-paths/commit/572bdb3))
+
 # [1.7.0](https://github.com/wmfs/concrete-paths/compare/v1.6.0...v1.7.0) (2018-10-08)
 
 
