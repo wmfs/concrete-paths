@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/wmfs/concrete-paths/compare/v1.8.0...v1.9.0) (2019-01-29)
+
+
+### ✨ Features
+
+* Fix on globby 9.0.0 ([d40d564](https://github.com/wmfs/concrete-paths/commit/d40d564))
+
 # [1.8.0](https://github.com/wmfs/concrete-paths/compare/v1.7.0...v1.8.0) (2019-01-25)
 
 
