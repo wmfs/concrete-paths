@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/wmfs/concrete-paths/compare/v1.9.0...v1.10.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug ([be3635c](https://github.com/wmfs/concrete-paths/commit/be3635c))
+* **dev-deps:** bump sem-rel and freinds ([3283e72](https://github.com/wmfs/concrete-paths/commit/3283e72))
+
 # [1.9.0](https://github.com/wmfs/concrete-paths/compare/v1.8.0...v1.9.0) (2019-01-29)
 
 
