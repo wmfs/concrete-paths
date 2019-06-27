@@ -22,7 +22,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "debug": "4.1.1",
-    "globby": "9.0.0",
+    "globby": "9.2.0",
     "lodash": "4.17.11",
     "upath": "1.1.2"
   },
