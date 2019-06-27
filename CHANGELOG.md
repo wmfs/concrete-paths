@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/wmfs/concrete-paths/compare/v1.10.0...v1.11.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** update upath requirement from 1.1.0 to 1.1.2 ([8890c82](https://github.com/wmfs/concrete-paths/commit/8890c82))
+
 # [1.10.0](https://github.com/wmfs/concrete-paths/compare/v1.9.0...v1.10.0) (2019-02-08)
 
 
