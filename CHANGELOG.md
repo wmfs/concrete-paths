@@ -1,3 +1,23 @@
+# [1.12.0](https://github.com/wmfs/concrete-paths/compare/v1.11.0...v1.12.0) (2019-07-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([41475cc](https://github.com/wmfs/concrete-paths/commit/41475cc))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([f2a9588](https://github.com/wmfs/concrete-paths/commit/f2a9588))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([904456e](https://github.com/wmfs/concrete-paths/commit/904456e))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([3b4c9db](https://github.com/wmfs/concrete-paths/commit/3b4c9db))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([576ff58](https://github.com/wmfs/concrete-paths/commit/576ff58))
+* **travis:** Remove Travis config ([891fe43](https://github.com/wmfs/concrete-paths/commit/891fe43))
+
 # [1.11.0](https://github.com/wmfs/concrete-paths/compare/v1.10.0...v1.11.0) (2019-06-27)
 
 
