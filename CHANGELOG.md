@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/wmfs/concrete-paths/compare/v1.14.0...v1.15.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump globby from 9.0.0 to 10.0.2 ([50944ba](https://github.com/wmfs/concrete-paths/commit/50944bad15c61e62e64cc924f081b9c4cb5cc11c))
+
 # [1.14.0](https://github.com/wmfs/concrete-paths/compare/v1.13.0...v1.14.0) (2020-01-06)
 
 
