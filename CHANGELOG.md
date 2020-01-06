@@ -1,3 +1,14 @@
+# [1.13.0](https://github.com/wmfs/concrete-paths/compare/v1.12.0...v1.13.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([3cb936c](https://github.com/wmfs/concrete-paths/commit/3cb936c8956ecde03ece88fe802c6c94deb47435))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([ee792c0](https://github.com/wmfs/concrete-paths/commit/ee792c05fe20943bbed6435c3abbcbdb9340efbe))
+* **deps-dev:** bump packages ([e61eda9](https://github.com/wmfs/concrete-paths/commit/e61eda9b0e00e2778bfc76ce9ccd859249f800c2))
+* **deps-dev:** update dependancies ([94d5a9b](https://github.com/wmfs/concrete-paths/commit/94d5a9b9ed3c27ed6104b3296f950a076cac4c24))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([2abc645](https://github.com/wmfs/concrete-paths/commit/2abc645abb6af2e22682a66832f0db24ffce3080))
+
 # [1.12.0](https://github.com/wmfs/concrete-paths/compare/v1.11.0...v1.12.0) (2019-07-12)
 
 
