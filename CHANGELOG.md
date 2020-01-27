@@ -1,3 +1,13 @@
+# [1.16.0](https://github.com/wmfs/concrete-paths/compare/v1.15.0...v1.16.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump globby from 10.0.2 to 11.0.0 ([8d4984c](https://github.com/wmfs/concrete-paths/commit/8d4984c96bae15398af4d36e14f34b899706fde8))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([e944fb5](https://github.com/wmfs/concrete-paths/commit/e944fb501c19ae20c70427108f1db57fb9799fce))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([81c75ee](https://github.com/wmfs/concrete-paths/commit/81c75ee5f74088e3b2118b20c5a3f5b38890cddd))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([24a0729](https://github.com/wmfs/concrete-paths/commit/24a0729d8e8c3a86871d05c98ff21cb132fc6c30))
+
 # [1.15.0](https://github.com/wmfs/concrete-paths/compare/v1.14.0...v1.15.0) (2020-01-06)
 
 
