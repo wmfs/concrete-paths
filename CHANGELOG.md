@@ -1,3 +1,44 @@
+# [1.17.0](https://github.com/wmfs/concrete-paths/compare/v1.16.0...v1.17.0) (2020-07-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([7822b41](https://github.com/wmfs/concrete-paths/commit/7822b41c824b7216a62ca1b6eb426e59b1ab5493))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([1d793dc](https://github.com/wmfs/concrete-paths/commit/1d793dc1c8c984f61ed1a6276a969b118fe78037))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([5332a3d](https://github.com/wmfs/concrete-paths/commit/5332a3d936dbff01a9dad48a771d549b504dd743))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([c05a946](https://github.com/wmfs/concrete-paths/commit/c05a946f4f5b5b8382e4bf2cfbd083e575637ba7))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([33839ab](https://github.com/wmfs/concrete-paths/commit/33839ab0df8379fc821322e48d6e7ec8cb8ab82e))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([50e760f](https://github.com/wmfs/concrete-paths/commit/50e760f69a290aefb83bee61d7599f1ba548ed5e))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([510d816](https://github.com/wmfs/concrete-paths/commit/510d81645ef51362556a255c6836751c3c34ee90))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([0784782](https://github.com/wmfs/concrete-paths/commit/0784782ac1d76c91885731ae2770f7281736970a))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([d06c9b5](https://github.com/wmfs/concrete-paths/commit/d06c9b59ecfb019f1a4939f7593421ef06cf49ef))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([e197bfb](https://github.com/wmfs/concrete-paths/commit/e197bfb5f3a391fe54afd373ccfcf1006be81d83))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([dffd05f](https://github.com/wmfs/concrete-paths/commit/dffd05f4841be85767213bd67e35add1bbcc752e))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([3ce245e](https://github.com/wmfs/concrete-paths/commit/3ce245e990993ef57af861bdb19ab70dad937232))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([c13d251](https://github.com/wmfs/concrete-paths/commit/c13d25109928b128e47db521b44842b7dd922f6a))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([434cb46](https://github.com/wmfs/concrete-paths/commit/434cb46f9522f75c4597873195eeba80c97d0e3a))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([612c981](https://github.com/wmfs/concrete-paths/commit/612c981aa1ab17db742e43766c6c3490abc20823))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([d92f9cf](https://github.com/wmfs/concrete-paths/commit/d92f9cf38de2771f6f908624bbad447c377270d0))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([b4386c8](https://github.com/wmfs/concrete-paths/commit/b4386c82521eb9b3237997cc4aff2f5d87377401))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([7430391](https://github.com/wmfs/concrete-paths/commit/7430391f1ac9db887a94223efa3d8e181a8ac4ab))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.3 ([49d020c](https://github.com/wmfs/concrete-paths/commit/49d020cbb690476e36b06d8d74f32b01e7948833))
+* **deps-dev:** bump semantic-release from 17.0.3 to 17.0.4 ([2427989](https://github.com/wmfs/concrete-paths/commit/2427989d073def592b0c2d0a05e438ad89da5895))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([9af97c9](https://github.com/wmfs/concrete-paths/commit/9af97c9ef8aa3d0c79a73c9613798da27972223b))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([118ede6](https://github.com/wmfs/concrete-paths/commit/118ede64bd2737f3128535be6e43f2063f4be98f))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([77cc942](https://github.com/wmfs/concrete-paths/commit/77cc942b0dd6f9602c58bd19a63988cb486a43c5))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([2638372](https://github.com/wmfs/concrete-paths/commit/263837222ec03969fc873fba4fcca6415a87ba0c))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([9a0e142](https://github.com/wmfs/concrete-paths/commit/9a0e142cb44a592e6a82e79d621e52dde74b38ff))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([7445494](https://github.com/wmfs/concrete-paths/commit/744549493583d29e23e971183e214fdc4799958c))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([68d2a2c](https://github.com/wmfs/concrete-paths/commit/68d2a2c4a8639537c9581d79350236543bc79f81))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([d00e28d](https://github.com/wmfs/concrete-paths/commit/d00e28da3414ffc3b8bda7450842c70fe8a680f6))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([7e42ff8](https://github.com/wmfs/concrete-paths/commit/7e42ff8e27ae8a337c32618ea58baaf9de08be47))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([e4b2c8e](https://github.com/wmfs/concrete-paths/commit/e4b2c8e7b1cf43a80f6c853513efacfe0a8a7deb))
+* **circle:** use updated circle node image [skip ci] ([9d355a8](https://github.com/wmfs/concrete-paths/commit/9d355a88bc277e00abb8cec2004f392739c8fe4e))
+
 # [1.16.0](https://github.com/wmfs/concrete-paths/compare/v1.15.0...v1.16.0) (2020-01-27)
 
 
