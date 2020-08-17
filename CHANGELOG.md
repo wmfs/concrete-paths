@@ -1,3 +1,19 @@
+# [1.19.0](https://github.com/wmfs/concrete-paths/compare/v1.18.0...v1.19.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([e643205](https://github.com/wmfs/concrete-paths/commit/e643205783216ef4cc5ffe4a41db920fa2016f6e))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([8d0a839](https://github.com/wmfs/concrete-paths/commit/8d0a8395edd7dcec999da4a0210cba9d4ee21bdc))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([6ff185d](https://github.com/wmfs/concrete-paths/commit/6ff185da5e7d738f4f98bc79f2ca90fa3658fd73))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([bf0dd7e](https://github.com/wmfs/concrete-paths/commit/bf0dd7e06a84030410b525903cebbb985fe66af3))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([b553e27](https://github.com/wmfs/concrete-paths/commit/b553e27bc848a943b860a4b29c415c462db0db32))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([25750ed](https://github.com/wmfs/concrete-paths/commit/25750edb14d055223ddc258a3cc4cd0a38e79a87))
+
 # [1.18.0](https://github.com/wmfs/concrete-paths/compare/v1.17.0...v1.18.0) (2020-07-15)
 
 
