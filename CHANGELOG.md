@@ -1,3 +1,15 @@
+# [1.20.0](https://github.com/wmfs/concrete-paths/compare/v1.19.0...v1.20.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.1.1 to 4.2.0 ([5e16866](https://github.com/wmfs/concrete-paths/commit/5e1686682ab7d2a1bd5bd4f3dd1698f149430c92))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([fb7b86b](https://github.com/wmfs/concrete-paths/commit/fb7b86b3aa3082493ec3667087093a02abe1e535))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([0ec82f4](https://github.com/wmfs/concrete-paths/commit/0ec82f48653d784022dc195be28ffe877340425f))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([b1896d0](https://github.com/wmfs/concrete-paths/commit/b1896d07f6aa4d4932260f31c39778798bc69d2b))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([96eb47a](https://github.com/wmfs/concrete-paths/commit/96eb47af03b1feba5dfdbf6553ba9555dc3ff8d2))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([1a6230c](https://github.com/wmfs/concrete-paths/commit/1a6230c94d537c4022afac1f3ccc7d36ba2842aa))
+
 # [1.19.0](https://github.com/wmfs/concrete-paths/compare/v1.18.0...v1.19.0) (2020-08-17)
 
 
