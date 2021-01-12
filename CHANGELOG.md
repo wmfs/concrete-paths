@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/wmfs/concrete-paths/compare/v1.22.0...v1.23.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump upath from 1.2.0 to 2.0.1 ([373b51d](https://github.com/wmfs/concrete-paths/commit/373b51d73415d7542ff95952d8bf3bac97af2d11))
+
 # [1.22.0](https://github.com/wmfs/concrete-paths/compare/v1.21.0...v1.22.0) (2021-01-12)
 
 
