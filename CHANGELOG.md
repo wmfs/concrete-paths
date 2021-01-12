@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/wmfs/concrete-paths/compare/v1.21.0...v1.22.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump globby from 11.0.1 to 11.0.2 ([d95e412](https://github.com/wmfs/concrete-paths/commit/d95e412193cf1946aab9c526065f4a379612a9c1))
+
 # [1.21.0](https://github.com/wmfs/concrete-paths/compare/v1.20.0...v1.21.0) (2021-01-05)
 
 
