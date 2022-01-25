@@ -1,3 +1,34 @@
+# [1.27.0](https://github.com/wmfs/concrete-paths/compare/v1.26.0...v1.27.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([67b4c0f](https://github.com/wmfs/concrete-paths/commit/67b4c0fdcc77df094eb692c2598b770cf8579fe5))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([e711422](https://github.com/wmfs/concrete-paths/commit/e711422979b2cdb8794062116648e1aac88106c5))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([0f6de81](https://github.com/wmfs/concrete-paths/commit/0f6de812bf73d192feab9d78afafdf7c1995b354))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([e13b2ea](https://github.com/wmfs/concrete-paths/commit/e13b2ea35ed2bb15bddcdec245f2527d7357e701))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([1e1d9d6](https://github.com/wmfs/concrete-paths/commit/1e1d9d60cdd41f26ae662fbdd6d51f80d5283adb))
+* **deps-dev:** update dependency mocha to v9.1.0 ([a413b8d](https://github.com/wmfs/concrete-paths/commit/a413b8dd23a0f6abf471b34ff98b004b9930774d))
+* **deps-dev:** update dependency mocha to v9.1.1 ([b588c37](https://github.com/wmfs/concrete-paths/commit/b588c37d6a6c0b147caac26d0c1b5a9fcaea808c))
+* **deps-dev:** update dependency mocha to v9.1.2 ([983c714](https://github.com/wmfs/concrete-paths/commit/983c7148ca9c018440aa9de957bbc7ae7d905f64))
+* **deps-dev:** update dependency mocha to v9.1.3 ([c24acfa](https://github.com/wmfs/concrete-paths/commit/c24acfa471b7449e35d92dfc2c09a8c78ca65520))
+* **deps-dev:** update dependency mocha to v9.1.4 ([5d5fa15](https://github.com/wmfs/concrete-paths/commit/5d5fa1537ebdf0b6ada53143b2b0cd9a028920f7))
+* **deps-dev:** update dependency mocha to v9.2.0 ([d7ae035](https://github.com/wmfs/concrete-paths/commit/d7ae0357a20f7ed04fe552ba9c7b01c7396fda53))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([8a8ea84](https://github.com/wmfs/concrete-paths/commit/8a8ea8415ab49c790e65ded895f3d837c576dabc))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([10904d8](https://github.com/wmfs/concrete-paths/commit/10904d83fcc5961cc0b37e52dc80099ba462076b))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([9a8e3e8](https://github.com/wmfs/concrete-paths/commit/9a8e3e8e6947c3ef9125aa1d3405cfae4f8c9452))
+* **deps-dev:** update dependency semantic-release to v18 ([87a3558](https://github.com/wmfs/concrete-paths/commit/87a3558fbf99baef29230480c619eef71fc9d085))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([3c2f8dc](https://github.com/wmfs/concrete-paths/commit/3c2f8dc67ddd28b0d2de8635dc187ba3e90ce799))
+* **deps-dev:** update dependency semantic-release to v19 ([3e75fa8](https://github.com/wmfs/concrete-paths/commit/3e75fa80c376eda4ec91d8ef66987ecf07b6fc6a))
+* **deps-dev:** update dependency standard to v16.0.4 ([fd013e6](https://github.com/wmfs/concrete-paths/commit/fd013e6fedf8a1220f2eb6f5468ee0d007e21bb0))
+* **deps-dev:** update semantic-release monorepo ([2f16114](https://github.com/wmfs/concrete-paths/commit/2f16114e4bd21db053f6ff9c87437958891484ac))
+* **deps:** update dependency globby to v11.1.0 ([ee1c5e0](https://github.com/wmfs/concrete-paths/commit/ee1c5e00a9ce499f1ee8c498f0e5055b917610cc))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([fc3e831](https://github.com/wmfs/concrete-paths/commit/fc3e83126ec73864a9b474bdbd7572b6d98c2193))
+
 # [1.26.0](https://github.com/wmfs/concrete-paths/compare/v1.25.0...v1.26.0) (2021-07-09)
 
 
