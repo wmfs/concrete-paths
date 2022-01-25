@@ -1,3 +1,10 @@
+# [1.28.0](https://github.com/wmfs/concrete-paths/compare/v1.27.0...v1.28.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.3 ([4a759ba](https://github.com/wmfs/concrete-paths/commit/4a759ba2378ca66fbb8c8ace5755921a9cbbd7fa))
+
 # [1.27.0](https://github.com/wmfs/concrete-paths/compare/v1.26.0...v1.27.0) (2022-01-25)
 
 
