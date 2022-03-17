@@ -21,7 +21,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "debug": "4.3.3",
+    "debug": "4.3.4",
     "globby": "11.1.0",
     "lodash": "4.17.21",
     "upath": "2.0.1"
