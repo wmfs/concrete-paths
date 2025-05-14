@@ -1,3 +1,16 @@
+## [1.32.0](https://github.com/wmfs/concrete-paths/compare/v1.31.0...v1.32.0) (2025-05-14)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#365](https://github.com/wmfs/concrete-paths/issues/365)) ([5a0f822](https://github.com/wmfs/concrete-paths/commit/5a0f82252f913c60b0b786a5c29134b38f92b8bf))
+* **deps-dev:** update dependency chai to v5.2.0 ([#368](https://github.com/wmfs/concrete-paths/issues/368)) ([5e38925](https://github.com/wmfs/concrete-paths/commit/5e389257b17872468ff2bb5e86eb830777135c30))
+* **deps-dev:** update dependency mocha to v11.1.0 ([#366](https://github.com/wmfs/concrete-paths/issues/366)) ([d439304](https://github.com/wmfs/concrete-paths/commit/d43930450788f68fb44ec8e8f5cbea51f0f35e65))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#370](https://github.com/wmfs/concrete-paths/issues/370)) ([b1df0b5](https://github.com/wmfs/concrete-paths/commit/b1df0b53e1c8e2709fd3d57feac3f908dff3056e))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#364](https://github.com/wmfs/concrete-paths/issues/364)) ([19b0b02](https://github.com/wmfs/concrete-paths/commit/19b0b02db2b200cf00ace5aca127cdfe824cbdd6))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#367](https://github.com/wmfs/concrete-paths/issues/367)) ([fe1804c](https://github.com/wmfs/concrete-paths/commit/fe1804caf040e3370fca35cf518cbcd5d10be6f5))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#369](https://github.com/wmfs/concrete-paths/issues/369)) ([429f33f](https://github.com/wmfs/concrete-paths/commit/429f33fb10d8d80bdff4f81c7c0e246e06784e0e))
+* **deps:** update dependency debug to v4.4.1 ([#371](https://github.com/wmfs/concrete-paths/issues/371)) ([da835ba](https://github.com/wmfs/concrete-paths/commit/da835bab78eb487ed7e1b821d73f035675acb598))
+
 # [1.31.0](https://github.com/wmfs/concrete-paths/compare/v1.30.0...v1.31.0) (2024-12-09)
 
 # [1.30.0](https://github.com/wmfs/concrete-paths/compare/v1.29.0...v1.30.0) (2024-11-04)
