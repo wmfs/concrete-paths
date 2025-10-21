@@ -1,3 +1,34 @@
+## [1.33.0](https://github.com/wmfs/concrete-paths/compare/v1.32.0...v1.33.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#389](https://github.com/wmfs/concrete-paths/issues/389)) ([5db6a9e](https://github.com/wmfs/concrete-paths/commit/5db6a9ed47e57e38b4ed25c75546b8aabee68ea2))
+* **deps-dev:** update dependency chai to v5.2.1 ([#382](https://github.com/wmfs/concrete-paths/issues/382)) ([2ebc307](https://github.com/wmfs/concrete-paths/commit/2ebc307f4bfa77f479d9c7ef49a47137a800bb91))
+* **deps-dev:** update dependency chai to v5.3.1 ([#385](https://github.com/wmfs/concrete-paths/issues/385)) ([5105cf4](https://github.com/wmfs/concrete-paths/commit/5105cf4a4a4771341969fe8dd3be6c75e4b923aa))
+* **deps-dev:** update dependency chai to v5.3.3 ([#386](https://github.com/wmfs/concrete-paths/issues/386)) ([3139ae4](https://github.com/wmfs/concrete-paths/commit/3139ae42ec35c58820c997da17cc02b99985aa7c))
+* **deps-dev:** update dependency chai to v6 ([#387](https://github.com/wmfs/concrete-paths/issues/387)) ([6541136](https://github.com/wmfs/concrete-paths/commit/65411366e9c0ba2d13818003500eeab7177c2a8d))
+* **deps-dev:** update dependency chai to v6.2.0 ([#393](https://github.com/wmfs/concrete-paths/issues/393)) ([6ee22b5](https://github.com/wmfs/concrete-paths/commit/6ee22b5c0f9df9ee27023d009ee858c8b85b13a9))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#375](https://github.com/wmfs/concrete-paths/issues/375)) ([1d41b38](https://github.com/wmfs/concrete-paths/commit/1d41b38d5910ce8a61c4bb0b663aec5d1920fd35))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#383](https://github.com/wmfs/concrete-paths/issues/383)) ([0fa03e5](https://github.com/wmfs/concrete-paths/commit/0fa03e53a2aa07d45c35034d968e3c405f3fef72))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#372](https://github.com/wmfs/concrete-paths/issues/372)) ([339a327](https://github.com/wmfs/concrete-paths/commit/339a327095201340317e3f0c566358693f0b3849))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#374](https://github.com/wmfs/concrete-paths/issues/374)) ([4da5167](https://github.com/wmfs/concrete-paths/commit/4da516750ccb804bf918869c0006d589345b060c))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#377](https://github.com/wmfs/concrete-paths/issues/377)) ([0662cd8](https://github.com/wmfs/concrete-paths/commit/0662cd80a7c5a20528ee9add02b400680035691e))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#378](https://github.com/wmfs/concrete-paths/issues/378)) ([b558941](https://github.com/wmfs/concrete-paths/commit/b558941b6978e0369023e90e9fa69b7ec8dca604))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#379](https://github.com/wmfs/concrete-paths/issues/379)) ([de9d832](https://github.com/wmfs/concrete-paths/commit/de9d83223c37beb3364fcd40521cbf0879b5919f))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#380](https://github.com/wmfs/concrete-paths/issues/380)) ([d4f7c38](https://github.com/wmfs/concrete-paths/commit/d4f7c38ecf9501b828e4ac3cdbba2e3ca92584df))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#388](https://github.com/wmfs/concrete-paths/issues/388)) ([8951e82](https://github.com/wmfs/concrete-paths/commit/8951e8206194033e4385dbdf18c18ee968e4f4bf))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#395](https://github.com/wmfs/concrete-paths/issues/395)) ([93ec750](https://github.com/wmfs/concrete-paths/commit/93ec7502b603354460280a526f26171740f64cab))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#396](https://github.com/wmfs/concrete-paths/issues/396)) ([da9c17c](https://github.com/wmfs/concrete-paths/commit/da9c17c311ccf1b8d632b2a94a70903d1c286b1b))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#373](https://github.com/wmfs/concrete-paths/issues/373)) ([04afe02](https://github.com/wmfs/concrete-paths/commit/04afe022ec58eff02afd2ac7f3f6654781e91591))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#376](https://github.com/wmfs/concrete-paths/issues/376)) ([5d9069f](https://github.com/wmfs/concrete-paths/commit/5d9069ff9159eec05c914b48a31a18fc87ce9d29))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#381](https://github.com/wmfs/concrete-paths/issues/381)) ([dbb0531](https://github.com/wmfs/concrete-paths/commit/dbb053105b1cdc35ac4371184e769c68aef7efa0))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#384](https://github.com/wmfs/concrete-paths/issues/384)) ([5625982](https://github.com/wmfs/concrete-paths/commit/56259829545d890f2e67b09b2e87aaf688d9d70d))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#390](https://github.com/wmfs/concrete-paths/issues/390)) ([0b793e2](https://github.com/wmfs/concrete-paths/commit/0b793e2194670301784e9a2496a951c293d1b1f1))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#392](https://github.com/wmfs/concrete-paths/issues/392)) ([8452965](https://github.com/wmfs/concrete-paths/commit/845296548fb03548d155925a2dff04882addcd86))
+* **deps-dev:** update dependency semantic-release to v25 ([#397](https://github.com/wmfs/concrete-paths/issues/397)) ([4610092](https://github.com/wmfs/concrete-paths/commit/4610092a7e4f766c1b477a51e71a4194660cb478))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#398](https://github.com/wmfs/concrete-paths/issues/398)) ([f8f0595](https://github.com/wmfs/concrete-paths/commit/f8f0595593cc9b4f2a221a0e8a55e7377e32e6eb))
+* **deps:** revert chai to non-esm ([c17c4f3](https://github.com/wmfs/concrete-paths/commit/c17c4f352a2e9aa9bf992bb455f5b29264ca9a77))
+
 ## [1.32.0](https://github.com/wmfs/concrete-paths/compare/v1.31.0...v1.32.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
