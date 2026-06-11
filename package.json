@@ -24,7 +24,7 @@
     "debug": "4.4.1",
     "globby": "11.1.0",
     "lodash": "4.17.21",
-    "upath": "2.0.1"
+    "upath": "3.0.7"
   },
   "devDependencies": {
     "chai": "4.5.0",
