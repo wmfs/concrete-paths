@@ -1,3 +1,20 @@
+## [1.34.0](https://github.com/wmfs/concrete-paths/compare/v1.33.1...v1.34.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([7e8c2ca](https://github.com/wmfs/concrete-paths/commit/7e8c2ca771074c8fbd63b79a1c48a2c8455d7417))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#428](https://github.com/wmfs/concrete-paths/issues/428)) ([348043e](https://github.com/wmfs/concrete-paths/commit/348043e4ccab82a4992f1207844255ec9e565b0f))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#433](https://github.com/wmfs/concrete-paths/issues/433)) ([f78e49d](https://github.com/wmfs/concrete-paths/commit/f78e49da9b60035faa0c06df29bbfb658f59d39d))
+* **deps-dev:** update dependency mocha to v12 ([#429](https://github.com/wmfs/concrete-paths/issues/429)) ([0605c89](https://github.com/wmfs/concrete-paths/commit/0605c8996cbf0156fd780c067e023dff29f23360))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#430](https://github.com/wmfs/concrete-paths/issues/430)) ([56ee260](https://github.com/wmfs/concrete-paths/commit/56ee26066f8c5a8b40a2fb9919056439dc07dac7))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#431](https://github.com/wmfs/concrete-paths/issues/431)) ([d7772b9](https://github.com/wmfs/concrete-paths/commit/d7772b9be59081df5c84781926f421172b849945))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#432](https://github.com/wmfs/concrete-paths/issues/432)) ([99abdab](https://github.com/wmfs/concrete-paths/commit/99abdab49098bd294781f20910e85cf607c3d4da))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#405](https://github.com/wmfs/concrete-paths/issues/405)) ([cb23982](https://github.com/wmfs/concrete-paths/commit/cb239825dfe05eed9122d3984b861ffdd95e25f6))
+
+### CICD Configuration Changes :construction_worker:
+
+* use shared renovate preset [sc-34117] ([#435](https://github.com/wmfs/concrete-paths/issues/435)) ([f9bb4c2](https://github.com/wmfs/concrete-paths/commit/f9bb4c2ba7c27edab9d5ac9e0de5e94e34a5eb71))
+
 ## [1.33.1](https://github.com/wmfs/concrete-paths/compare/v1.33.0...v1.33.1) (2026-08-13)
 
 ## [1.33.0](https://github.com/wmfs/concrete-paths/compare/v1.32.0...v1.33.0) (2025-10-21)
