@@ -1,3 +1,10 @@
+## [1.35.0](https://github.com/wmfs/concrete-paths/compare/v1.34.0...v1.35.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency debug to v4.4.3 ([#391](https://github.com/wmfs/concrete-paths/issues/391)) ([5539747](https://github.com/wmfs/concrete-paths/commit/55397471333f85734fd1a44be98815c1e2996d76))
+* **deps:** update dependency upath to v3 ([#413](https://github.com/wmfs/concrete-paths/issues/413)) ([d28b45e](https://github.com/wmfs/concrete-paths/commit/d28b45e6f864da24b5e03e06c5c45a63933b7d18))
+
 ## [1.34.0](https://github.com/wmfs/concrete-paths/compare/v1.33.1...v1.34.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
