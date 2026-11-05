@@ -1,3 +1,9 @@
+## [1.36.0](https://github.com/wmfs/concrete-paths/compare/v1.35.0...v1.36.0) (2026-11-05)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency globby to v16 ([#402](https://github.com/wmfs/concrete-paths/issues/402)) ([634dbf9](https://github.com/wmfs/concrete-paths/commit/634dbf98c351ab883fe5a0106757c6825d96b09b))
+
 ## [1.35.0](https://github.com/wmfs/concrete-paths/compare/v1.34.0...v1.35.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
